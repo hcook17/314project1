@@ -4,6 +4,7 @@
  * condtional and biconditional.These values are printed out for the user
  * and the user can then alter their boolean values to determine the five new truth values. 
  */
+////
 import java.util.*;
 public class Test {
 public static void main(String[] args) {
